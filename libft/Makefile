@@ -6,7 +6,7 @@
 #    By: vmustone <vmustone@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/24 15:52:33 by vmustone          #+#    #+#              #
-#    Updated: 2022/12/15 16:10:03 by vmustone         ###   ########.fr        #
+#    Updated: 2022/12/22 19:51:46 by vmustone         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -40,4 +40,4 @@ fclean:
 
 re: fclean all
 
-.PHONY : all bonus clean fclean re
+.PHONY : all clean fclean re
